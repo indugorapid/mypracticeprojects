@@ -4,7 +4,7 @@ public class AssociatedDrug {
 
 	private String name;
 	private String dose;
-	private int strength;
+	private String strength;
 	
 	public String getName() {
 		return name;
@@ -18,10 +18,10 @@ public class AssociatedDrug {
 	public void setDose(String dose) {
 		this.dose = dose;
 	}
-	public int getStrength() {
+	public String getStrength() {
 		return strength;
 	}
-	public void setStrength(int strength) {
+	public void setStrength(String strength) {
 		this.strength = strength;
 	}
 	

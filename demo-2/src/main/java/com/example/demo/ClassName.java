@@ -2,7 +2,7 @@ package com.example.demo;
 
 import java.util.List;
 
-public class className {
+public class ClassName {
 
 	private List<AssociatedDrug> associatedDrug;
 
